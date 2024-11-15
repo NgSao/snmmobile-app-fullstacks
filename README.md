@@ -71,7 +71,7 @@ This project demonstrates a **full-stack e-commerce system** with a **Java Sprin
 
 ### Demo and Images
 - **Video Demo App**: [Google Drive](https://drive.google.com/file/d/1ys6f_Ye5xhFZ1gd5D6ni6Nj-82BGJQeW/view?usp=sharing)
-- **Video Demo Admin(under construction)**: [Google Drive]([https://drive.google.com/file/d/1iKpfb8QgSqLnDjNWyk2RsZZ9Csm2Op_f/view?usp=sharing](https://drive.google.com/file/d/1ebEqdbhjNXpwTxMArfAFu9KpYM_RBkK4/view?usp=sharing))
+- **Video Demo Admin(under construction)**: [Google Drive]([https://drive.google.com/file/d/1iKpfb8QgSqLnDjNWyk2RsZZ9Csm2Op_f/view?usp=sharing](https://drive.google.com/file/d/1ebEqdbhjNXpwTxMArfAFu9KpYM_RBkK4/view?usp=sharing)
 
 
 ## Programmer
